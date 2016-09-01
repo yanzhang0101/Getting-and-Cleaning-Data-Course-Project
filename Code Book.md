@@ -1,4 +1,4 @@
-
+# Code Book
 The submission includes R scripts in the file run_analysis.R, and in order for the scripts to successfully run, you will need to download the Samsung file (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) and extract into your working directory.
 
 The script does the following
@@ -13,11 +13,11 @@ The script does the following
 The produced text data file contains the average value of measurement in the samsung data for each subject and activity
 Here are the columns:
 
-#subject 
+##subject 
   - the ID of the corresponding subject participating in the study
   - the value is 1 through 30
 
-#activity_name 
+##activity_name 
   - descriptive name of the activity
   - There are 6 activities: 
     - WALKING
@@ -27,9 +27,9 @@ Here are the columns:
     - STANDING
     - LAYING
 
-# variable
+##variable
   - Name of the variable
 
-#mean(value) 
+##mean(value) 
   - the mean value of the measure
   - this is calculated for each subject for each activity
