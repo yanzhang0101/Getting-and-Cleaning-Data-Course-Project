@@ -16,6 +16,9 @@ Here are the columns:
     - STANDING
     - LAYING
 
+# variable
+  - Name of the variable
+
 #mean(value) 
   - the mean value of the measure
   - this is calculated for each subject for each activity
